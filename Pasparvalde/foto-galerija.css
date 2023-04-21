@@ -1,0 +1,101 @@
+.home-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: #22365B;
+  }
+  .home-text {
+    color: #e6e4e4;
+    width: 80%;
+    height: 42px;
+    font-size: 400%;
+    align-self: flex-start;
+    margin-top: 3%;
+    margin-left: 5%;
+  }
+  .home-container1 {
+    flex: 0 0 auto;
+    width: 100%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .home-image {
+    width: 30%;
+    align-self: stretch;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 2%;
+  }
+  .home-image1 {
+    width: 30%;
+    align-self: stretch;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 3%;
+  }
+  .home-image2 {
+    width: 30%;
+    align-self: center;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 3%;
+    margin-right: 2%;
+  }
+  .home-container2 {
+    flex: 0 0 auto;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .home-image3 {
+    width: 30%;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 2%;
+  }
+  .home-image4 {
+    width: 30%;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 3%;
+  }
+  .home-image5 {
+    width: 30%;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 3%;
+    margin-right: 2%;
+  }
+  .home-container3 {
+    flex: 0 0 auto;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .home-image6 {
+    width: 30%;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 2%;
+  }
+  .home-image7 {
+    width: 30%;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 3%;
+  }
+  .home-image8 {
+    width: 30%;
+    margin-top: 4%;
+    object-fit: cover;
+    margin-left: 3%;
+    margin-right: 2%;
+  }
+  
